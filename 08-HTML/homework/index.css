@@ -1,5 +1,6 @@
 h1{
     color:cornflowerblue;
+    
 }
 img{
     width: 400px;
@@ -10,8 +11,20 @@ img{
     background-color: red;
     padding: 50px;
     border: thick double black;
+    margin-left: auto;
+    margin-right: auto; 
 }
 #spanid{
+    width: auto;
     font-size: 18px;
     margin: 50px;
+}
+.divClass{  
+    font-size: larger;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto; 
+    background-color: aliceblue;
+    border: 1px solid;
+    padding: 10px;
 }
